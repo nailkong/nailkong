@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m an JAVA and Flutter engineer
+
 <!--
 **nailkong/nailkong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
